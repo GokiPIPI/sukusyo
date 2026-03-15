@@ -1,0 +1,5 @@
+Displays found: 2
+Display ID: MONITOR\PHLC238\{4d36e96e-e325-11ce-bfc1-08002be10318}\0004, Size: Instance of 'Size', WorkArea: Instance of 'Offset'
+Display ID: MONITOR\PHLC238\{4d36e96e-e325-11ce-bfc1-08002be10318}\0000, Size: Instance of 'Size', WorkArea: Instance of 'Offset'
+Target Display: MONITOR\PHLC238\{4d36e96e-e325-11ce-bfc1-08002be10318}\0000
+Setting Position to: 3216.0, 382.0
